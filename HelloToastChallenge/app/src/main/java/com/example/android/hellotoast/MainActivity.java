@@ -26,7 +26,6 @@ import android.widget.Toast;
  * Displays two Buttons and a TextView.
  * - Pressing the TOAST button shows a Toast.
  * - Pressing the COUNT button increases the displayed mCount.
- *
  */
 
 public class MainActivity extends AppCompatActivity {
