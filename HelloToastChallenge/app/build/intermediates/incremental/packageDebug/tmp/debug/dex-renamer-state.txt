@@ -1,0 +1,4 @@
+#Fri Mar 25 02:22:47 NPT 2022
+base.0=C\:\\Users\\subed\\AndroidStudioProjects\\project2\\week1\\HelloToastChallenge\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
